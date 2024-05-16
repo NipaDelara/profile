@@ -2,7 +2,7 @@
 
         👋 Hello, I am Delara Jannat Nipa. 
 
-<img src="images/myPhoto.jpg" alt="my photo" width="350" height="300" style="border-radius: 5%;">
+<img src="images/webph.jpg" alt="my photo" width="350" height="300" style="border-radius: 5%;">
 
 
         A full time student of web developer
